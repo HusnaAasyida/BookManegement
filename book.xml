@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book publishYear="2012">
+        <author>AAA</author>
+        <genre>Fantasy</genre>
+        <price>12.0</price>\
+       
+        <status>Available</status>
+        <title>AAA</title>
+    </book>
+    <book publishYear="2013">
+        <author>Farah</author>
+        <genre>Horror</genre>
+        <price>20.0</price>
+        <status>Not Available</status>
+        <title>Thriller</title>
+    </book>
+    <book publishYear="2019">
+        <author>Farina</author>
+        <genre>Horror</genre>
+        <price>30.0</price>
+        <status>Available</status>
+        <title>Hantu</title>
+    </book>
+</books>

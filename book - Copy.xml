@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+	<book publishYear="2012">
+		<title>AAA</title>
+		<author>AAA</author>
+		<genre>Fantasy</genre>
+		<price>12</price>
+		<status></status>
+	</book>
+</books>
